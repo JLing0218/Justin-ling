@@ -1,0 +1,27 @@
+.red {
+    font-size: 25px;
+    color:#00ffdd ;
+}
+.name {
+    font-family: 'Lobster', cursive;
+}
+body {
+    background-color: #0080ff;
+}
+img {
+ width: 200px;   
+}
+.important {
+   font-size: 25px;   
+   font-family: 'Lobster'; 
+}
+
+.listed {
+  font-size: 25px;
+  font-family: 'Modak', cursive;
+  color:#0015ff;
+}
+
+
+
+
